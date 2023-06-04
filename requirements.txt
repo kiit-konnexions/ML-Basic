@@ -1,0 +1,16 @@
+notebook
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+opencv-python
+nltk
+spacy
+scikit-learn
+tensorflow
+# python -m spacy download en_core_web_sm
+openpyxl
+hmmlearn
+scikit-image
+# pip install git+https://www.github.com/keras-team/keras-contrib.git
